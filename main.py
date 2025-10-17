@@ -54,7 +54,6 @@ if pergunta == "s":
     while not pokemonEncontrado:
         autoProcuraRaro()
 
-
 def autoProcuraPokeEspecifico():
     global tentativa, pokemonEncontrado
 
