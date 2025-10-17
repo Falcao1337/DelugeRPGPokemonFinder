@@ -89,4 +89,4 @@ def autoProcuraPokeEspecifico():
 if pergunta == "n":
     pokemonProcurado = input('Digite o nome do Pokémon que deseja encontrar: ').lower().strip()
     while not pokemonEncontrado:
-        automove()
+        autoProcuraPokeEspecifico()
