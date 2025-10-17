@@ -55,7 +55,7 @@ if pergunta == "s":
         autoProcuraRaro()
 
 
-def automove():
+def autoProcuraPokeEspecifico():
     global tentativa, pokemonEncontrado
 
     sequencia = ['w', 'd', 's', 'a']
@@ -63,7 +63,7 @@ def automove():
         auto.press(tecla)
         time.sleep(0.8)
         clickBotaoSobrePokemon()
-        time.sleep(0.5)
+        time.sleep(0.6)
         clickBotaoNomePokemon()
         clickBotaoNomePokemon()
         time.sleep(0.2)
