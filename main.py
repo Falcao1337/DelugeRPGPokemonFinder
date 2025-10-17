@@ -7,7 +7,6 @@ auto.FAILSAFE = True
 pokemonEncontrado = False
 tentativa = 0
 
-
 def clickBotaoSobrePokemon():
     auto.click(x=1255, y=507)  # as coordenadas dependem da resolução do monitor/navegador
 
