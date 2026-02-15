@@ -1,13 +1,11 @@
 É necessario dar um pip install no pyguiauto
 
-
+De o play no mouse_pos.py para pegar a posição dos itens abaixo
 
 
 Este é o botao sobre o pokemon
 
 <img width="316" height="355" alt="botaoSobrePokemon" src="https://github.com/user-attachments/assets/951ab229-59ce-4034-be63-5818e9cd5f94" />
-
-
 
 
 
