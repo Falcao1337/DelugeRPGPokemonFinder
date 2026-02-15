@@ -20,3 +20,4 @@ Este é o botão do tipo do pokemon
 
 <img width="213" height="294" alt="image" src="https://github.com/user-attachments/assets/0b679337-3ccc-49c7-b760-9a7a9c6dbe6b" />
 
+Para cancelar a procura, arraste o mouse rapidamente para o canto inferior direito
