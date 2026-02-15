@@ -21,7 +21,7 @@ def clickBotaoClose():
 
 
 def clickBotaoTipoPokemon():
-    auto.click(x=1284, y=346)
+    auto.click(x=1284, y=346)  # as coordenadas dependem da resolução do monitor/navegador
 
 
 pergunta = input("Você quer achar qualquer raro? s/n: ").lower().strip()
@@ -33,7 +33,7 @@ def autoProcuraRaro():
     sequencia = ['w', 'd', 's', 'a']
     for tecla in sequencia:
         auto.press(tecla)
-        auto.click(x=1284, y=346, clicks=3, interval=0.12)  # as coordenadas dependem da resolução do monitor/navegador
+        auto.click(x=1284, y=346, clicks=3, interval=0.12)  # as coordenadas dependem da resolução do monitor/navegador. Este é o autoclick do TipoPokemon
         time.sleep(0.35)
         auto.hotkey('ctrl', 'c')
         time.sleep(0.05)
