@@ -14,3 +14,9 @@ Este é o botao sobre o pokemon
 Estes sao respectivamente os botõe NomePokemon e Close
 
 <img width="812" height="641" alt="NomePokemon e Close" src="https://github.com/user-attachments/assets/9771897c-c4e6-481b-a473-624c7d99ea71" />
+
+
+Este é o botão do tipo do pokemon
+
+<img width="213" height="294" alt="image" src="https://github.com/user-attachments/assets/0b679337-3ccc-49c7-b760-9a7a9c6dbe6b" />
+
